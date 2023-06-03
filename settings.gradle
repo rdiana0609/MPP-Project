@@ -1,0 +1,9 @@
+rootProject.name = 'SwimmingContestFinal'
+include 'Domain'
+include 'Client'
+include 'Server'
+include 'Services'
+include 'Persistence'
+include 'Networking'
+include 'RestServices'
+
